@@ -17,10 +17,7 @@ using System.Web;
 namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperations
 {
     [Produces("application/json")]
-    //[ProducesResponseType]
     [ApiController]
-    //[ApiVersion("1")]
-    //[Route("v{api-version:apiVersion}/applicant}")]
     [Route("[controller]")]
     public class ApplicantInfoController : Controller
     {
@@ -28,14 +25,12 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
-        //private readonly ApiContext _context;
         private readonly ILogger<ApplicantInfoController> _logger;
         private readonly IApplicantService _service;
 
         public ApplicantInfoController(ILogger<ApplicantInfoController> logger, IApplicantService service)
         {
             _service = service;
-            //_context = context;
             _logger = logger;
         }
         /// <summary>
@@ -62,15 +57,10 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
         /// <response code="400">If the item is null</response> 
         [ProducesResponseType(typeof(int), 201)]
         [ProducesResponseType(typeof(Message), 400)]
-        //[ProducesResponseType(StatusCodes.Status201Created)]
-        //[ProducesResponseType(StatusCodes.Status400BadRequest)]
         [HttpPost]
         [Route("save")]
         public ActionResult Applicant([FromBody] Applicant objApplicant)
         {
-            //var baseUrl = string.Format("{0}://{1}{2}", Request.Url.Scheme, Request.Url.Authority, Url.Content("~")
-            //var baseUrl = Request.RequestUri.GetLeftPart(UriPartial.Authority);
-            //var chck= HttpUtility.ParseQueryString(Request.Url.Query);
             try
             {
                 var check = _service.ApplicantValidate(objApplicant, false);
@@ -86,31 +76,6 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
                 Log.Information("Exception: " + ex.Message);
                 return BadRequest();
             }
-
-
-            //return BadRequest("https://localhost:44348/ApplicantInfo/1", _service.SaveApplicant(objApplicant));
-            ////var check = GetUser();
-            //_context.Applicants.Add(new Applicant {
-            //    ID = _context.Applicants.Max(x=>x.ID)+1,
-            //    Name = objApplicant.Name,
-            //    FamilyName = objApplicant.FamilyName,
-            //    Address = objApplicant.Address,
-            //    CountryOfOrigin = objApplicant.CountryOfOrigin,
-            //    EMailAddress = objApplicant.EMailAddress,
-            //    Age = objApplicant.Age,
-            //    Hired = objApplicant.Hired,
-            //});
-            //_context.SaveChanges();
-            ////var rng = new Random();
-            ////return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            ////{
-            ////    Date = DateTime.Now.AddDays(index),
-            ////    TemperatureC = rng.Next(-20, 55),
-            ////    Summary = Summaries[rng.Next(Summaries.Length)]
-            ////})
-            ////.ToArray();
-            //return _context.Users.ToList();service.SaveApplicant(objApplicant)
-
         }
         /// <summary>
         /// Updates an Applicant item
@@ -141,27 +106,6 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
         [Route("save")]
         public ActionResult UpdateApplicant([FromBody] Applicant objApplicant)
         {
-            ////var check = GetUser();
-            //_context.Applicants.Add(new Applicant {
-            //    ID = _context.Applicants.Max(x=>x.ID)+1,
-            //    Name = objApplicant.Name,
-            //    FamilyName = objApplicant.FamilyName,
-            //    Address = objApplicant.Address,
-            //    CountryOfOrigin = objApplicant.CountryOfOrigin,
-            //    EMailAddress = objApplicant.EMailAddress,
-            //    Age = objApplicant.Age,
-            //    Hired = objApplicant.Hired,
-            //});
-            //_context.SaveChanges();
-            ////var rng = new Random();
-            ////return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            ////{
-            ////    Date = DateTime.Now.AddDays(index),
-            ////    TemperatureC = rng.Next(-20, 55),
-            ////    Summary = Summaries[rng.Next(Summaries.Length)]
-            ////})
-            ////.ToArray();
-            //return _context.Users.ToList();service.SaveApplicant(objApplicant)
             try
             {
                 var check = _service.ApplicantValidate(objApplicant, true);
@@ -190,17 +134,8 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
         [ProducesResponseType(typeof(Applicant), 201)]
         [ProducesResponseType(typeof(Message), 400)]
         [HttpGet("{Id}")]   
-        //[Route("weather")]
         public ActionResult Applicant(int Id)
         {
-            //var check = GetUser();
-            //_context.Users.Add(new Domain.ApplicantOperations.Models.User
-            //{
-            //    Id = "shafeek",
-            //    FirstName = "ahamed",
-            //    LastName = "one"
-            //});
-            //_context.SaveChanges();
             try
             {
                 var returnObj = _service.GetApplicant(Id);
@@ -218,10 +153,6 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
                 Log.Information("Exception: " + ex.Message);
                 return BadRequest();
             }
-            
-            //_context.Users.Where(u => u.Id == name).ToList();
-
-            //return response;
         }
         /// <summary>
         /// Deletes an Applicant item based on Id.
@@ -233,17 +164,8 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
         [ProducesResponseType(typeof(int), 201)]
         [ProducesResponseType(typeof(Message), 400)]
         [HttpDelete("{Id}")]
-        //[Route("weather")]
         public ActionResult DeleteApplicant(int Id)
         {
-            //var check = GetUser();
-            //_context.Users.Add(new Domain.ApplicantOperations.Models.User
-            //{
-            //    Id = "shafeek",
-            //    FirstName = "ahamed",
-            //    LastName = "one"
-            //});
-            //_context.SaveChanges();
             try
             {
                 int returnVal = _service.DeleteApplicant(Id);
@@ -263,10 +185,6 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
                 Log.Information("Exception: " + ex.Message);
                 return BadRequest();
             }
-            
-            //_context.Users.Where(u => u.Id == name).ToList();
-
-            //return response;
         }
         /// <summary>
         /// Fetches all applicants.
@@ -277,17 +195,8 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
         [ProducesResponseType(typeof(Applicant), 201)]
         [ProducesResponseType(typeof(Message), 400)]
         [HttpGet()]
-        //[Route("weather")]
         public ActionResult Applicant()
         {
-            //var check = GetUser();
-            //_context.Users.Add(new Domain.ApplicantOperations.Models.User
-            //{
-            //    Id = "shafeek",
-            //    FirstName = "ahamed",
-            //    LastName = "one"
-            //});
-            //_context.SaveChanges();
             try
             {
                 var returnObj = _service.GetAllApplicant();
@@ -305,25 +214,6 @@ namespace Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperat
                 Log.Information("Exception: " + ex.Message);
                 return BadRequest();
             }
-
-            //_context.Users.Where(u => u.Id == name).ToList();
-
-            //return response;
         }
-        //public async Task<IActionResult> GetUser()
-        //{
-        //    var users = await _context.Users
-        //        .Include(u => u.Posts)
-        //        .ToArrayAsync();
-
-        //    var response = users.Select(u => new
-        //    {
-        //        firstName = u.FirstName,
-        //        lastName = u.LastName,
-        //        posts = u.Posts.Select(p => p.Content)
-        //    });
-
-        //    return Ok(response);
-        //}
     }
 }
