@@ -1,0 +1,13 @@
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.XML
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.deps.json
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.csprojAssemblyReference.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.AssemblyInfoInputs.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.AssemblyInfo.cs
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb

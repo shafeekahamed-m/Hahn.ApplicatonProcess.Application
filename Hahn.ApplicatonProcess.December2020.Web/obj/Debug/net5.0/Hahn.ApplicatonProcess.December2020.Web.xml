@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hahn.ApplicatonProcess.December2020.Web</name>
+    </assembly>
+    <members>
+        <member name="M:Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperations.ApplicantInfoController.Applicant(Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant)">
+             <summary>
+             Adds an Applicant item
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Adds
+                 {
+                     "Name":"shafeekahamed",
+                     "FamilyName":"shafeek",
+                     "Address":"shafeek,11111",
+                     "CountryOfOrigin":"india",
+                     "EMailAddress":"shafeek@g.com",
+                     "Age":26,
+                     "Hired":false
+                  }
+            
+             </remarks>
+             <param name="objApplicant"></param>
+             <returns>Returns the newly Added item</returns>
+             <response code="201">Returns the newly Added item</response>
+             <response code="400">If the item is null</response> 
+        </member>
+        <member name="M:Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperations.ApplicantInfoController.UpdateApplicant(Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant)">
+             <summary>
+             Updates an Applicant item
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Update
+                 {
+                     "ID":1,
+                     "Name":"Luke",
+                     "FamilyName":"Skywalker",
+                     "Address":"144,Blecker st.",
+                     "CountryOfOrigin":"Germany",
+                     "EMailAddress":"Luke_skywalker@gmail.com",
+                     "Age":26,
+                     "Hired":true
+                  }
+            
+             </remarks>
+             <param name="objApplicant"></param>
+             <returns>Returns 1 for Update success and -1 for Id not found (or) not successful</returns>
+             <response code="201">Returns 1 for Update success</response>
+             <response code="400">Returns -1 for Id not found (or) not successful</response> 
+        </member>
+        <member name="M:Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperations.ApplicantInfoController.Applicant(System.Int32)">
+            <summary>
+            Fetches an Applicant item based on Id.
+            </summary>
+            <param name="Id"></param>
+            <returns>Returns 1 on successful deletion </returns>
+            <response code="201">Returns the applicant object on match found </response>
+            <response code="400">Returns 400 If the item is null or does not match any applicant item</response>
+        </member>
+        <member name="M:Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperations.ApplicantInfoController.DeleteApplicant(System.Int32)">
+            <summary>
+            Deletes an Applicant item based on Id.
+            </summary>
+            <param name="Id"></param>
+            <returns>Returns 1 on successful deletion </returns>
+            <response code="201">Returns code 201 on successful deletion </response>
+            <response code="400">Returns code 400 If the Id is null or does not match any applicant item</response>
+        </member>
+        <member name="M:Hahn.ApplicatonProcess.December2020.Web.Controllers.V1.ApplicantOperations.ApplicantInfoController.Applicant">
+            <summary>
+            Fetches all applicants.
+            </summary>
+            <returns>Returns 1 on successful deletion </returns>
+            <response code="201">Returns the applicant objects </response>
+            <response code="400">Returns 400 If no applicant found</response>
+        </member>
+    </members>
+</doc>

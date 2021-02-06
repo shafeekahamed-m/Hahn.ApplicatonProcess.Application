@@ -1,0 +1,16 @@
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.deps.json
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\bin\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Data.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.pdb
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.csprojAssemblyReference.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.AssemblyInfoInputs.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.AssemblyInfo.cs
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.csproj.CopyComplete
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Data.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.pdb
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Data\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.xml

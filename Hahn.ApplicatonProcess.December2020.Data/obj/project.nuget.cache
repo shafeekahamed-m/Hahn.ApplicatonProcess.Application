@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "2qj9jVv77F4YCHB8I01rWzMfLWvYCdRcIUS3fc0qH5TB3K4O7k9w9O3qTduc22MAQ2xST3f34a9gRiY4JygA/A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shafe\\.nuget\\packages\\fluentvalidation\\9.4.0\\fluentvalidation.9.4.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.4.0\\fluentvalidation.aspnetcore.9.4.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.4.0\\fluentvalidation.dependencyinjectionextensions.9.4.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.2\\microsoft.entityframeworkcore.5.0.2.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.2\\microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.2\\microsoft.entityframeworkcore.analyzers.5.0.2.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.2\\microsoft.entityframeworkcore.inmemory.5.0.2.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\shafe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

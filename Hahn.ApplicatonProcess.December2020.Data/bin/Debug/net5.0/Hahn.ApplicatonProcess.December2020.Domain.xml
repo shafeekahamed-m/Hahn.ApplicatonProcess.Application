@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hahn.ApplicatonProcess.December2020.Domain</name>
+    </assembly>
+    <members>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.ID">
+            <summary>
+            Id not needed during post
+            </summary>
+            <example>3</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.Name">
+            <summary>
+            Any Valid Name
+            </summary>
+            <example>Luke Skywalker</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.FamilyName">
+            <summary>
+            Any Valid Name
+            </summary>
+            <example>George Skywalker</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.Address">
+            <summary>
+            Any Valid Name
+            </summary>
+            <example>133,2nd st,Outer Nebula</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.CountryOfOrigin">
+            <summary>
+            Any Valid Name
+            </summary>
+            <example>Germany</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.EMailAddress">
+            <summary>
+            Any Valid EMailAddress
+            </summary>
+            <example>shafeekahamed21@gmail.com</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.Age">
+            <summary>
+            Any Valid Age
+            </summary>
+            <example>26</example>
+        </member>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.Hired">
+            <summary>
+            Any Valid Boolean
+            </summary>
+            <example>true</example>
+        </member>
+    </members>
+</doc>

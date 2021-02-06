@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj",
+        "projectName": "Hahn.ApplicatonProcess.December2020.Data",
+        "projectPath": "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj",
+        "packagesPath": "C:\\Users\\shafe\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shafe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj": {
+                "projectPath": "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj",
+        "projectName": "Hahn.ApplicatonProcess.December2020.Domain",
+        "projectPath": "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj",
+        "packagesPath": "C:\\Users\\shafe\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\github\\API solution\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shafe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

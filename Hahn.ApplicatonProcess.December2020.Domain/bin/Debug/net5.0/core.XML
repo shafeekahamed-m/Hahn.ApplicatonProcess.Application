@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hahn.ApplicatonProcess.December2020.Domain</name>
+    </assembly>
+    <members>
+        <member name="P:Hahn.ApplicatonProcess.December2020.Domain.ApplicantOperations.Models.Applicant.Name">
+            <summary>
+            A textual summary
+            </summary>
+            <example>Luke Skywalker</example>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,118 @@
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\appsettings.json
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.exe
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.deps.json
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.runtimeconfig.json
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.runtimeconfig.dev.json
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Web.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.pdb
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.csprojAssemblyReference.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.AssemblyInfoInputs.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.AssemblyInfo.cs
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.csproj.CoreCompileInputs.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\staticwebassets\Hahn.ApplicatonProcess.December2020.Web.StaticWebAssets.Manifest.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\staticwebassets\Hahn.ApplicatonProcess.December2020.Web.StaticWebAssets.xml
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\scopedcss\bundle\Hahn.ApplicatonProcess.December2020.Web.styles.css
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.RazorTargetAssemblyInfo.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.csproj.CopyComplete
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Web.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.pdb
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.genruntimeconfig.cache
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.pdb
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\FluentValidation.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.xml
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.xml
+D:\Projects\Hahn\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.xml
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\appsettings.json
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.exe
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.deps.json
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.runtimeconfig.json
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.runtimeconfig.dev.json
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Web.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.pdb
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.xml
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\FluentValidation.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.pdb
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.xml
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.csprojAssemblyReference.cache
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.AssemblyInfoInputs.cache
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.AssemblyInfo.cs
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.csproj.CoreCompileInputs.cache
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\staticwebassets\Hahn.ApplicatonProcess.December2020.Web.StaticWebAssets.Manifest.cache
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\staticwebassets\Hahn.ApplicatonProcess.December2020.Web.StaticWebAssets.xml
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\scopedcss\bundle\Hahn.ApplicatonProcess.December2020.Web.styles.css
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.RazorTargetAssemblyInfo.cache
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.csproj.CopyComplete
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Web.dll
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.xml
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.pdb
+D:\Projects\github\API solution\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Web\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Web.genruntimeconfig.cache
